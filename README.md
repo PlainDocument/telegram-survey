@@ -21,6 +21,6 @@
 
 На момент публикации пользователи оценили понятность для 1064 текстовых фрагментов. 
 
-В файле survey_data.csv приведены результаты опроса, содержащие все названные ранее параметры, а также значения метрик, описанных в репозитории [Complexity-models]([https://pages.github.com/](https://github.com/PlainDocument/Complexity-models)https://github.com/PlainDocument/Complexity-models)
+В файле survey_data.csv приведены результаты опроса, содержащие все названные ранее параметры, а также значения метрик, описанных в репозитории [Complexity-models](https://pages.github.com/](https://github.com/PlainDocument/Complexity-models)https://github.com/PlainDocument/Complexity-models)
 
 В папке plots приведены визуализации статистики по опросу. Кроме общей статистики, приводится тепловая карта корреляций различных метрик и метаданных.
